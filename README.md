@@ -28,7 +28,7 @@ width="800"  height="3">
 ### **社交主页：**
 
 
- <img align="right" alt="GIF" src="./images/code.gif" width="500" height="100%" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="450" height="100%" />
 
 -   <a href="https://kingogdark.top"><code><img height="40" width="40" src="./images/Fluid.png"></code></a>：个人博客
 -   <a href="https://space.bilibili.com/1891289"><code><img height="40" width="70" src="./images/bilibili.png"></code></a>：B站个人主页。
