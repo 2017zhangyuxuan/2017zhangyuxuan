@@ -1,8 +1,19 @@
 <img align="right" src="https://count.getloli.com/get/@:2017zhangyuxuan?theme=rule34">
 
-## 前端工程师—天平
+<div align="center">
 
-热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=I+will+be+the+best+animation+lover+who+is+able+to+save+the+world.)](https://git.io/typing-svg)
+
+
+
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
+width="800"  height="3">
+
+</div>
+
+## 广告技术研发
+
+即将入职字节跳动广告部门，欢迎联系讨论~
 
 ### **社交主页：**
 
@@ -16,5 +27,3 @@
 [![](https://activity-graph.herokuapp.com/graph?username=2017zhangyuxuan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![2017zhangyuxuan's github stats](https://github-readme-stats.vercel.app/api?username=2017zhangyuxuan&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2017zhangyuxuan&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2017zhangyuxuan&layout=compact&langs_count=6)
