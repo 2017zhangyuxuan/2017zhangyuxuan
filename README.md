@@ -11,6 +11,9 @@ width="800"  height="3">
 
 ### 广告技术研发
 
+<img align="right" src="https://count.getloli.com/get/@:2017zhangyuxuan?theme=rule34">
+
+
 即将入职字节跳动广告部门，欢迎联系讨论~
 
 
@@ -20,19 +23,24 @@ width="800"  height="3">
 [![](https://img.shields.io/github/followers/2017zhangyuxuan?color=27da6b&logo=Handshake)](https://github.com/2017zhangyuxuan?tab=followers)
 
 
+<br>
+
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
+ <img align="right" alt="GIF" src="./images/code.gif" width="500" height="100%" />
+
+-   <a href="https://kingogdark.top"><code><img height="40" width="40" src="./images/Fluid.png"></code></a>：个人博客
+-   <a href="https://space.bilibili.com/1891289"><code><img height="40" width="70" src="./images/bilibili.png"></code></a>：B站个人主页。
 
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
-
-
+<br>
+<br>
 <div align="center">
 
 
 [![](https://stats.justsong.cn/api/bilibili/?id=1891289)](https://space.bilibili.com/1891289)
-[![](https://stats.justsong.cn/api/github?username=2017zhangyuxuan)](https://github.com/2017zhangyuxuan)
+<!-- [![](https://stats.justsong.cn/api/github?username=2017zhangyuxuan)](https://github.com/2017zhangyuxuan) >
 
 </div>
 
@@ -49,8 +57,5 @@ width="800"  height="3">
 
 </div>
 
-
-
-<img align="left" src="https://count.getloli.com/get/@:2017zhangyuxuan?theme=rule34">
 
 
