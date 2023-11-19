@@ -9,7 +9,7 @@ width="800"  height="3">
 
 </div>
 
-## 广告技术研发
+### 广告技术研发
 
 即将入职字节跳动广告部门，欢迎联系讨论~
 
@@ -19,6 +19,7 @@ width="800"  height="3">
 [![](https://img.shields.io/github/stars/2017zhangyuxuan?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=2017zhangyuxuan&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/2017zhangyuxuan?color=27da6b&logo=Handshake)](https://github.com/2017zhangyuxuan?tab=followers)
 
+
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
@@ -26,10 +27,29 @@ width="800"  height="3">
 
 -   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
 
-### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=2017zhangyuxuan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![2017zhangyuxuan's github stats](https://github-readme-stats.vercel.app/api?username=2017zhangyuxuan&show_icons=true&theme=vue)
+<div align="center">
+
+
+[![](https://stats.justsong.cn/api/bilibili/?id=1891289)](https://space.bilibili.com/1891289)
+[![](https://stats.justsong.cn/api/github?username=2017zhangyuxuan)](https://github.com/2017zhangyuxuan)
+
+</div>
+
+### 💻 Stats
+
+<div align="center">
+
+
+[![github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=2017zhangyuxuan&include_orgs=true&hide_title=false&show_icons=true&include_all_commits=true&line_height=20&theme=vue&locale=cn)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=2017zhangyuxuan&include_orgs=true&hide_title=false&show_icons=true&include_all_commits=true&line_height=20&theme=vue&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=2017zhangyuxuan&hide_title=false&hide=c&layout=compact&theme=vue&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=2017zhangyuxuan&hide_title=false&hide=c&layout=compact&theme=vue&locale=cn)
+
+<!-- [![profile](https://github-profile-trophy.vercel.app/?username=2017zhangyuxuan&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=2017zhangyuxuan&theme=algolia&column=8) -->
+
+[![snake](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
+
+</div>
+
+
 
 <img align="left" src="https://count.getloli.com/get/@:2017zhangyuxuan?theme=rule34">
 
