@@ -11,7 +11,7 @@ width="800"  height="3">
 
 ### 广告技术研发
 
-<img align="right" src="https://count.getloli.com/get/@:2017zhangyuxuan?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:2017zhangyuxuan?theme=moebooru">
 
 
 即将入职字节跳动广告部门，欢迎联系讨论~
